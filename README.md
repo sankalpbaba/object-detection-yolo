@@ -3,6 +3,7 @@
 * The keras_yolo and keras_darknet should be in models folder which will be present in yad2k folder.
 * We trained our model on yolov2 weights took from yolo official website.
 * The test images should be in folder created Images.
+* The coco and pascal classes and yolo.h5 model and yolo anchors.txt is saved in model_data folder which is present in directory where yad2k folder is present and the yad2k.py is present.
 
 **summary**
 The pretrained weights are used for this project( Transfer Learning )
